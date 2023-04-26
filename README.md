@@ -16,3 +16,13 @@ https://www.ibm.com/design/thinking/page/badges/ai
 ### As-is Exercise
 
 https://www.ibm.com/design/thinking/page/toolkit/activity/as-is-scenario-map
+
+## Enterprise Design Thinking 
+
+### Field Guide
+
+http://ibm.biz/fieldguide-public
+
+### Toolkit
+
+http://ibm.com/design/thinking/page/toolkit
