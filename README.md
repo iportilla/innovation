@@ -13,6 +13,11 @@ https://www.ibm.com/design/thinking/page/courses/AI_Essentials
 
 https://www.ibm.com/design/thinking/page/badges/ai
 
+### Empathy Map Exercise
+
+https://www.ibm.com/design/thinking/page/toolkit/activity/empathy-map
+
+
 ### As-is Exercise
 
 https://www.ibm.com/design/thinking/page/toolkit/activity/as-is-scenario-map
