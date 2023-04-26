@@ -17,7 +17,11 @@ https://www.ibm.com/design/thinking/page/badges/ai
 
 https://www.ibm.com/design/thinking/page/toolkit/activity/as-is-scenario-map
 
-## Enterprise Design Thinking 
+## Enterprise Design Thinking
+
+### Framework
+
+https://www.ibm.com/design/thinking/page/framework
 
 ### Field Guide
 
